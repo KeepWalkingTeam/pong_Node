@@ -1,0 +1,6 @@
+{
+  "name": "pong-with-websockets",
+  "description": "A sample game for training Websockets and nodejs",
+  "repository": "https://github.com/cezarant/keepWalkingPong",  
+  "keywords": ["node", "express", "static"],  
+}
